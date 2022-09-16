@@ -19,12 +19,10 @@ public class Ejercicio3 {
             String nombreArchivo = "fichero.txt";
             archivo = new File (ruta + nombreArchivo);
             fr = new FileReader (archivo);
-            br = new BufferedReader(fr);
-
-            // Lectura del fichero
-            String linea;
-            while((linea=br.readLine())!=null)
-                System.out.println(linea);
+            int i;
+            while((i = fr.read())!=-1){
+                System.out.print(((char) i));
+            }
         }
         catch(Exception e){
             e.printStackTrace();
