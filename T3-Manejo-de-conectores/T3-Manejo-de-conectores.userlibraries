@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="db4o">
+    <archive path="/Users/adrianpisabarro/IdeaProjects/Acceso-a-datos/T3-Manejo-de-conectores/db4o.jar" />
+  </library>
+</eclipse-userlibraries>
+
