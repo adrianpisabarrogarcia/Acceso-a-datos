@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-8.0.30">
+    <archive path="/Users/adrianpisabarrogarcia/Desktop/Git/Acceso-a-datos/T3-Manejo-de-conectores/mysql/Actividad6/mysql-connector-java-8.0.30.jar" />
+  </library>
+</eclipse-userlibraries>
+
