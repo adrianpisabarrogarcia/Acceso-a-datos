@@ -1,0 +1,22 @@
+<ListaPersonasMunicipio>
+  <DatosPersona>
+    <nombre>Juan</nombre>
+    <edad>20</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Pedro</nombre>
+    <edad>30</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Maria</nombre>
+    <edad>40</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Luis</nombre>
+    <edad>50</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Ana</nombre>
+    <edad>60</edad>
+  </DatosPersona>
+</ListaPersonasMunicipio>

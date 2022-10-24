@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f19ebe-8f08-45d4-9e4a-da722ce89020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/empleados.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeerFicheroAleatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio2/out/production/Ejercicio2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio2/out/production/Ejercicio2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio2/personas.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,7 +44,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -94,6 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665075335476</updated>
       <workItem from="1665075337438" duration="2249000" />
+      <workItem from="1666644312249" duration="29000" />
+      <workItem from="1666644350974" duration="785000" />
     </task>
     <servers />
   </component>
